@@ -1,1 +1,1 @@
-git clone https://github.com/marcotexcode/marcotexcode.github.io
+git clone https://github.com/marcotexcode/Boolean-Exercise.github.io
